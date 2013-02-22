@@ -22,7 +22,7 @@ import mazeagram.Interface;
  *
  * @author SONY
  * 
- * modificado por git
+ * 2q22222222222222222222
  */
 public class CanvasAnagrama extends Canvas
                      implements Runnable,
