@@ -67,8 +67,9 @@ public class CanvasAnagrama extends Canvas
       double cX=0,
              cY=0;
       
-      private Interface frame;
+    private Interface frame;
     private boolean banderaHilo=true;
+    
     public CanvasAnagrama(Interface frame , String palabra,int nivel){
         this.frame=frame;
         this.setFocusable(true);
